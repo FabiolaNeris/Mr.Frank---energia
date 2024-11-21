@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568444441025",
+    "project_id": "mrfrank-energia",
+    "storage_bucket": "mrfrank-energia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568444441025:android:c498c0f638878ba1695f40",
+        "android_client_info": {
+          "package_name": "com.example.mrfrank_globalsolutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Gtf0eWKlrEakVI1rT2vVHgQxzwJ69Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
